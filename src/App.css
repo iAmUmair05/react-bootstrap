@@ -30,3 +30,6 @@ p{
 .footer a:hover {
   color: grey;  
 }
+.footer-color {
+  background-color: rgb(228, 196, 19);
+}
